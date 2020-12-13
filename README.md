@@ -4,7 +4,7 @@ A simple todo app using react components and state.
 
 The application will look like
 
-![Todo App](https://raw.githubusercontent.com/Aishwarya-Venkatraman/Aishwarya-Venkatraman/master/todo-app.png)
+![Todo App](https://raw.githubusercontent.com/Aishwarya-Venkatraman/reacttodo/master/todo-app.png)
 
 Clone down this repository. You will need node and npm installed globally on your machine.
 
