@@ -10,6 +10,11 @@ For Installation:
 
 ### `npm install`
 
+
 To Start Server:
 
 ### `npm start`
+
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
