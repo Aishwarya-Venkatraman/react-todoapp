@@ -4,6 +4,8 @@ A simple todo app using react components and state.
 
 ![Todo App](https://raw.githubusercontent.com/Aishwarya-Venkatraman/reacttodo/master/todo-app.png)
 
+To view the application in browser, [Click here](https://reacttodo-app.netlify.app) .
+
 Clone down this repository. You will need node and npm installed globally on your machine.
 
 For Installation:
